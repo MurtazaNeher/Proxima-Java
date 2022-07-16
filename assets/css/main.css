@@ -398,6 +398,10 @@ h1 {
     .cards-sec .cards-con .s-card {
         padding-top: 16%;
     }
+    .hero-sec .logo-wrapper .logo {
+        width: 120px;
+        margin: 20px 30px;
+    }
 }
 
 @media only screen and (max-width: 992px) {
