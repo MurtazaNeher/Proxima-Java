@@ -128,7 +128,7 @@
         border: none;
         font-size: 14px;
         transition: all 0.3s ease-in-out;
-        z-index: 9999999 !important;
+        /* z-index: 9999999 !important; */
     }
     
     .p-btn:hover {
